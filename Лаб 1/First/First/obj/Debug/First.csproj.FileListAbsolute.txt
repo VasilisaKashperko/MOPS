@@ -1,0 +1,36 @@
+D:\учёба\3 курс\1 сем\моп\lab1\First\First\bin\Debug\First.exe.config
+D:\учёба\3 курс\1 сем\моп\lab1\First\First\bin\Debug\First.exe
+D:\учёба\3 курс\1 сем\моп\lab1\First\First\bin\Debug\First.pdb
+D:\учёба\3 курс\1 сем\моп\lab1\First\First\obj\Debug\First.csprojAssemblyReference.cache
+D:\учёба\3 курс\1 сем\моп\lab1\First\First\obj\Debug\First.Form1.resources
+D:\учёба\3 курс\1 сем\моп\lab1\First\First\obj\Debug\First.Properties.Resources.resources
+D:\учёба\3 курс\1 сем\моп\lab1\First\First\obj\Debug\First.csproj.GenerateResource.cache
+D:\учёба\3 курс\1 сем\моп\lab1\First\First\obj\Debug\First.exe
+D:\учёба\3 курс\1 сем\моп\lab1\First\First\obj\Debug\First.pdb
+d:\Учёба\3 курс\МОПС\lab1\First\First\bin\Debug\First.exe.config
+d:\Учёба\3 курс\МОПС\lab1\First\First\bin\Debug\First.exe
+d:\Учёба\3 курс\МОПС\lab1\First\First\bin\Debug\First.pdb
+d:\Учёба\3 курс\МОПС\lab1\First\First\obj\Debug\First.csprojAssemblyReference.cache
+d:\Учёба\3 курс\МОПС\lab1\First\First\obj\Debug\First.Form1.resources
+d:\Учёба\3 курс\МОПС\lab1\First\First\obj\Debug\First.Properties.Resources.resources
+d:\Учёба\3 курс\МОПС\lab1\First\First\obj\Debug\First.csproj.GenerateResource.cache
+d:\Учёба\3 курс\МОПС\lab1\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+d:\Учёба\3 курс\МОПС\lab1\First\First\obj\Debug\First.exe
+d:\Учёба\3 курс\МОПС\lab1\First\First\obj\Debug\First.pdb
+X:\BSTU\3 year\5 семестр\МОПС\лаб1\First\First\bin\Debug\First.exe.config
+X:\BSTU\3 year\5 семестр\МОПС\лаб1\First\First\bin\Debug\First.exe
+X:\BSTU\3 year\5 семестр\МОПС\лаб1\First\First\bin\Debug\First.pdb
+X:\BSTU\3 year\5 семестр\МОПС\лаб1\First\First\obj\Debug\First.csprojAssemblyReference.cache
+X:\BSTU\3 year\5 семестр\МОПС\лаб1\First\First\obj\Debug\First.Form1.resources
+X:\BSTU\3 year\5 семестр\МОПС\лаб1\First\First\obj\Debug\First.Properties.Resources.resources
+X:\BSTU\3 year\5 семестр\МОПС\лаб1\First\First\obj\Debug\First.csproj.GenerateResource.cache
+X:\BSTU\3 year\5 семестр\МОПС\лаб1\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+X:\BSTU\3 year\5 семестр\МОПС\лаб1\First\First\obj\Debug\First.exe
+X:\BSTU\3 year\5 семестр\МОПС\лаб1\First\First\obj\Debug\First.pdb
+C:\Users\Helen\Desktop\Дениса\5 семестр\5 семестр\МОПС\Лаб 1\First\First\obj\Debug\First.csproj.AssemblyReference.cache
+C:\Users\Helen\Desktop\Дениса\5 семестр\5 семестр\МОПС\Лаб 1\First\First\obj\Debug\First.Form1.resources
+C:\Users\Helen\Desktop\Дениса\5 семестр\5 семестр\МОПС\Лаб 1\First\First\obj\Debug\First.Properties.Resources.resources
+C:\Users\Helen\Desktop\Дениса\5 семестр\5 семестр\МОПС\Лаб 1\First\First\obj\Debug\First.csproj.GenerateResource.cache
+C:\Users\Helen\Desktop\Дениса\5 семестр\5 семестр\МОПС\Лаб 1\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\Helen\Desktop\Дениса\5 семестр\5 семестр\МОПС\Лаб 1\First\First\obj\Debug\First.exe
+C:\Users\Helen\Desktop\Дениса\5 семестр\5 семестр\МОПС\Лаб 1\First\First\obj\Debug\First.pdb
